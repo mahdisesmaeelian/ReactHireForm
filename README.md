@@ -1,32 +1,36 @@
-SoftTeb Form
+<div>
+  <h1>🚀 React Job Application Form</h1>
+  <p>A fully responsive and interactive Job Application Form built with React.js.
+  This project demonstrates modern form handling, file uploads, date selection with Persian calendar, map-based location picking, and client-side validation – all with a clean and modular React architecture.</p>
 
-SoftTeb Form is a React-based dynamic form application designed for user registration with advanced input features such as file upload, date selection, skill selection, and location selection on a map.
+  <h2>✨ Features</h2>
+  <ul>
+    <li>⚛ <strong>React.js (Hooks + Functional Components)</strong> – clean, reusable code</li>
+    <li>📄 Resume Upload with validation (PDF/JPG, max 1MB)</li>
+    <li>📅 Persian Birthdate Picker using react-multi-date-picker</li>
+    <li>🗺 Interactive Map Selector using react-leaflet to pick exact location</li>
+    <li>📱 Fully responsive layout powered by Bootstrap 5</li>
+    <li>🔒 Hidden inputs for storing structured data (e.g., lat/long coordinates)</li>
+  </ul>
 
-Features
+  <h2>🛠 Tech Stack</h2>
+  <ul>
+    <li>React.js – UI library</li>
+    <li>React Leaflet – Map integration</li>
+    <li>React Multi Date Picker – Persian date picker</li>
+    <li>Bootstrap 5 – Responsive grid and styling</li>
+  </ul>
 
-Multi-field user registration form.
+  <h2>Clone the repository</h2>
 
-File upload for resumes (PDF/JPG) with validation (max 1MB).
+  ```bash
+ git clone https://github.com/mahdisesmaeelian/React-JobApplicationForm.git
+ ```
 
-Persian date picker for birth dates.
 
-Selectable skills using checkboxes.
-
-Dynamic location selection using a Leaflet map.
-
-Input fields for personal information: name, family name, father's name, national code, gender, email, phone number, address.
-
-Dropdown for experience selection.
-
-Form reset and submission handling.
-
-Components
-FileUploader
-
-Allows uploading a resume with:
-
-Allowed formats: PDF, JPG.
-
-Maximum file size: 1MB.
-
-Displays success or error messages.
+  <h2>Install dependencies and run  the Project</h2>
+  
+```bash
+npm install
+npm run dev
+```
