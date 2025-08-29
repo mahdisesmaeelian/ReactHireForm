@@ -21,14 +21,19 @@
     <li>Bootstrap 5 – Responsive grid and styling</li>
   </ul>
 
-  <h2>Clone the repository</h2>
+  <h2>📸 Demo Screenshot</h2>
+  <img src="/public/app-screenshot.png" alt="">
+
+ <h2>📥 Installation</h2> 
+
+  <h4>Clone the repository</h4>
 
   ```bash
  git clone https://github.com/mahdisesmaeelian/React-JobApplicationForm.git
  ```
 
 
-  <h2>Install dependencies and run  the Project</h2>
+  <h4>Install dependencies and run  the Project</h4>
   
 ```bash
 npm install
