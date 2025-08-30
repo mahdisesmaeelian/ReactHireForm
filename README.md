@@ -29,7 +29,13 @@
   <h4>Clone the repository</h4>
 
   ```bash
- git clone https://github.com/mahdisesmaeelian/React-JobApplicationForm.git
+git clone https://github.com/mahdisesmaeelian/ReactHireForm.git
+ ```
+
+<h4>Move into the project folder</h4>
+
+```bash
+cd ReactHireForm  
  ```
 
 
